@@ -1,24 +1,17 @@
-# README
+## Todo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### What is Todo?
 
-Things you may want to cover:
+* This is a simple todo list application that gives the user the ability to perform CRUD operations on their tasks and subtasks.
 
-* Ruby version
+### Installation
 
-* System dependencies
+* Clone the repository and run, npm install in both the root and client directories. Use rails server to run the application.
 
-* Configuration
+### Future Additions
 
-* Database creation
+* Link calendar to your preferred calendar of choice
+* Add more sort functionality
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+By Robert Beavin
